@@ -2,11 +2,13 @@
 <h1 align="center">Hi 👋, I'm Affan</h1>
 <h3 align="center">Greetings! I'm Affan Rehman, a Software Engineering Student at NUST, currently in my 5th semester. Here's a glimpse into my skills and passions:</h3>
 
+
+
 ### Skills Overview:
 
-- 🚀 **Mobile Maven**: Flutter and Dart specialist.
+- 🚀 **Mobile Maven**: Flutter and Dart specialist for 2 years, Native java for 2.5 years
 - 🌐 **Full Stack MERN Developer**: Proficient in MongoDB, Express.js, and Node.js for server-side scripting, and React for front-end in providing full stack applications.
-- 📱 **Backstage Sorcery**: Python, Java, and SQL.
+- 📱 **Backstage Sorcery**: SQL.
 - 🌐 **Web Wizardry**: HTML, CSS, JavaScript, and Bootstrap.
 - 🛠️ **Framework Architect**: Proficiency in PHP and Laravel.
 - 💾 **Database Dynamo**: MongoDB and Firebase for noSQL.
@@ -44,6 +46,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React.js" width="80" height="80"/>
+   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="80" height="80"/>  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> 
+   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> 
+   
 </p>
 
 
@@ -53,13 +59,6 @@
 - <a href="https://www.linkedin.com/in/affan-rehman-22b262219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="indrajit-pal" height="30" width="40" /></a>
 
 
-
-## 🔥 Streak stats
-<p align="center">
-  <a href="https://github.com/Affan-Rehman/github-readme-streak-stats">
-    <img alt="Affan's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Affan-Rehman&theme=monokai-metallian&hide_border=true"/>
-  </a>
-</p>
 
 ## 🔥 Published Apps Made
 - [Pacer](https://play.google.com/store/apps/details?id=charisma.motiondetectorpedometer.steptrackercounter) 100K+ downloads
