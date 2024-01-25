@@ -69,9 +69,21 @@
 - [Britalians TV](https://play.google.com/store/apps/details?id=com.britalianstv.britalians)  1+ downloads
 
 ## 📊 Github Stats
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    
-   ![Affan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Affan-Rehman&show_icons=true&theme=radical) ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Affan-Rehman&layout=compact)
-  <br/>
+## &#x1f4c8; Github Stats
+<div align="center">
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affan-rehman&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affan-rehman&theme=github_dark">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=affan-rehman&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=affan-rehman&theme=github_dark">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=affan-rehman&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=affan-rehman&theme=github_dark">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=affan-rehman&theme=github_dark">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=affan-rehman&theme=github_dark">
+  </a>
+  <a href="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=affan-rehman&theme=github_dark&utcOffset=8">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=affan-rehman&theme=github_dark&utcOffset=8">
+  </a>
+</div>
