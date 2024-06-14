@@ -1,18 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Affan</h1>
-<h3 align="center">Greetings! I'm Affan Rehman, a Software Engineering Student at NUST, currently in my 5th semester. Here's a glimpse into my skills and passions:</h3>
+<h3 align="center">Greetings! I'm Affan Rehman, a Software Engineering Student at NUST, currently in my 7th semester. Here's a glimpse into my skills and passions:</h3>
 
 
 
 ### Skills Overview:
 
-- 🚀 **Mobile Maven**: Flutter and Dart specialist for 2 years, Native java for 2.5 years
-- 🌐 **Full Stack MERN Developer**: Proficient in MongoDB, Express.js, and Node.js for server-side scripting, and React for front-end in providing full stack applications.
-- 📱 **Backstage Sorcery**: SQL.
-- 🌐 **Web Wizardry**: HTML, CSS, JavaScript, and Bootstrap.
-- 🛠️ **Framework Architect**: Proficiency in PHP and Laravel.
-- 💾 **Database Dynamo**: MongoDB and Firebase for noSQL.
-- 🎨 **Design Connoisseur**: Figma for graphic design.
+🚀 **Flutter Developer**: I specialize in Flutter for efficient, cross-platform mobile applications that maintain high performance across both Android and iOS.
+
+💻 **MERN Stack Developer**: I can easily handle frontend and backend applications thrown at me, utilizing MongoDB, Express, React, and Node.js.
+
+📱 **Native Android Developer**: Proficient in Java, I dive deep into Android's capabilities to craft compelling and high-performance native applications.
+
+🔍 **Technical Recruiter**: Experienced in identifying and recruiting top tech talent, ensuring the right fit for the company culture.
+
+💼 **Business Operations Associate**: Skilled in streamlining operations and improving efficiencies, I support business growth and operational excellence.
+
+🎨 **Figma Designer**: I am adept at creating system architectures and system designs in Figma, enhancing the user experience through thoughtful design.
+
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDUzOTY0MjUsIm5iZiI6MTcwNTM5NjEyNSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTE2VDA5MDg0NVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWZiMjkwNTA3MTNjMWM0NDJlZTJjMGJiNzA3YjE3MDVmOWNmZmZiMmYzNmNjYWJkOTRhOGQ3NDc5Y2IwNmUxMDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.D5kvTWEQcMawCmosm8YQP3LHFG7znDj8B5yXTAO-m_A">
 
@@ -40,8 +45,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="80" height="80"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="80" height="80"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="80" height="80"/>
