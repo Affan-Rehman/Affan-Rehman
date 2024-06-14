@@ -72,7 +72,6 @@
 - [Britalians TV](https://play.google.com/store/apps/details?id=com.britalianstv.britalians)  1+ downloads
 
 ## 📊 Github Stats
-## &#x1f4c8; Github Stats
 <div align="center">
   <a href="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affan-rehman&theme=github_dark">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=affan-rehman&theme=github_dark">
