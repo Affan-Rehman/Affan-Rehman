@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Affan</h1>
-<h3 align="center">Greetings! I'm Affan Rehman, a Software Engineering Student at NUST, currently in my 7th semester. Here's a glimpse into my skills and passions:</h3>
+<h3 align="center">Greetings! I'm Affan Rehman, a Software Engineering Student at NUST, currently in my 8th semester. Here's a glimpse into my skills and passions:</h3>
 
 
 
